@@ -39,4 +39,5 @@ node seeder -i
 Extensive documentation with examples [here](https://documenter.getpostman.com/view/2s9YJZ4QKC?version=latest)
 
 - Version: 1.0.0
-- Author: Vaibhav Bhardwaj
+- Author: Karthik Deshmukh
+  
